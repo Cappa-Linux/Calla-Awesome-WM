@@ -115,7 +115,7 @@ local autostart = {
 	"picom --config '/usr/share/calla/compositor.conf' --backend glx",
 	"xsettingsd --config '/usr/share/calla/xsettingsd'",
 	"nm-applet",
-	"/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1"
+	"cappalinux-polkit-gnome --on"
 }
 
 local function restarted()
