@@ -9,7 +9,7 @@ depends=("xorg-server" "pipewire-pulse"
   "papirus-icon-theme" "noto-fonts"
   "noto-fonts-cjk" "noto-fonts-emoji"
   "noto-fonts-extra" "lua-pam-git")
-url="https://github.com/LeVraiArdox/calla"
+url="https://github.com/Cappa-Linux/Calla-Awesome-WM"
 optdepends=("st: terminal",
   "vim-gtk3: vim with clipboard",
   "nemo: file manager",
