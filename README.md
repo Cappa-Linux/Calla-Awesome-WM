@@ -37,11 +37,9 @@ gtk3
 gtk4
 ```
 <br/>
-
 2. <strong>git clone this repo then makepkg -si or you can use yay -Bi for install local clone repo have PKGBUILD inside.</strong>
 
 <br/>
-
 3. <strong>Done! here you go!</strong>
 </details>
 <details>
