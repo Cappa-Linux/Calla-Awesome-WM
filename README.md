@@ -1,3 +1,8 @@
+<div align="center">
+ <h2><strong>---- 🖼️Pictures Of Calla🖼️ ----</strong></h2>
+ <img src="./screenshot.png" alt="Screenshots images">
+</div>
+
 ### Note:
 - There config not made by me btw and just a fork repo of https://github.com/Stardust-kyun/calla.
 - I just clone this repo and custom at i can do for my custom distro heheh😸
