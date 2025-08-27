@@ -1,3 +1,4 @@
+# Maintainer: Gia Phu <crystalforceix@gmail.com>
 pkgname="calla"
 pkgver="0.4"
 pkgrel="2"
@@ -6,7 +7,7 @@ arch=("x86_64")
 depends=("xorg-server" "pipewire-pulse"
   "brightnessctl" "inotify-tools"
   "awesome-git" "picom" "maim"
-  "papirus-icon-theme" "noto-fonts"
+  "papirus-icon-theme" "noto-fonts" "gnome-themes-extra"
   "noto-fonts-cjk" "noto-fonts-emoji"
   "noto-fonts-extra" "lua-pam-git")
 url="https://github.com/Cappa-Linux/Calla-Awesome-WM"
