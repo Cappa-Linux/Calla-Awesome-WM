@@ -44,7 +44,7 @@ local system = wibox.widget({
 				icon = "lock",
 				run = function()
 					awesome.emit_signal("widget::control")
-					awful.spawn.with_shell("i3lock")
+					awful.spawn.with_shell("i3lock -f -c 000000")
 				end,
 			}),
 			spacing = dpi(10),

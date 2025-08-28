@@ -49,7 +49,7 @@ awful.keyboard.append_global_keybindings({
 		awesome.emit_signal("widget::config")
 	end, { description = "show config", group = "awesome" }),
 	awful.key({ mod }, "l", function()
-		awful.spawn.with_shell("i3lock")
+		awful.spawn.with_shell("i3lock -f -c 000000")
 	end, { description = "lock screen", group = "awesome" }),
 	awful.key({ mod }, "space", function()
 		awesome.emit_signal("widget::control")
